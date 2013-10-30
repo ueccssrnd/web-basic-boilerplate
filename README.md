@@ -1,5 +1,4 @@
 ## R&D Basic Web App Boilerplate
--------------------------------------------
 
 ### Why is this even created?
 
